@@ -3,7 +3,6 @@ numpy
 opencv-python
 tensorflow
 tqdm
-pickle
 python-multipart
 uvicorn
 
